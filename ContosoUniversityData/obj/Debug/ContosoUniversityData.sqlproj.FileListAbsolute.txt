@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\EF6Practice\ContosoUniversityData\bin\Debug\ContosoUniversityData.dacpac
+c:\users\user\documents\visual studio 2015\Projects\EF6Practice\ContosoUniversityData\bin\Debug\ContosoUniversityData.dll
+c:\users\user\documents\visual studio 2015\Projects\EF6Practice\ContosoUniversityData\bin\Debug\ContosoUniversityData.pdb
+c:\users\user\documents\visual studio 2015\Projects\EF6Practice\ContosoUniversityData\obj\Debug\ContosoUniversityData.dll
+c:\users\user\documents\visual studio 2015\Projects\EF6Practice\ContosoUniversityData\obj\Debug\ContosoUniversityData.pdb
